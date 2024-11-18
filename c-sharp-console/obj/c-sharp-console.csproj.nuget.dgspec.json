@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/rthan/Projects/Personal/lc-pg/c-sharp/pg-c-sharp/pg-c-sharp.csproj": {}
+    "/home/rthan/Projects/Personal/lc-pg/c-sharp-console/c-sharp-console.csproj": {}
   },
   "projects": {
-    "/home/rthan/Projects/Personal/lc-pg/c-sharp/pg-c-sharp/pg-c-sharp.csproj": {
+    "/home/rthan/Projects/Personal/lc-pg/c-sharp-console/c-sharp-console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rthan/Projects/Personal/lc-pg/c-sharp/pg-c-sharp/pg-c-sharp.csproj",
-        "projectName": "pg-c-sharp",
-        "projectPath": "/home/rthan/Projects/Personal/lc-pg/c-sharp/pg-c-sharp/pg-c-sharp.csproj",
+        "projectUniqueName": "/home/rthan/Projects/Personal/lc-pg/c-sharp-console/c-sharp-console.csproj",
+        "projectName": "c-sharp-console",
+        "projectPath": "/home/rthan/Projects/Personal/lc-pg/c-sharp-console/c-sharp-console.csproj",
         "packagesPath": "/home/rthan/.nuget/packages/",
-        "outputPath": "/home/rthan/Projects/Personal/lc-pg/c-sharp/pg-c-sharp/obj/",
+        "outputPath": "/home/rthan/Projects/Personal/lc-pg/c-sharp-console/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rthan/.nuget/NuGet/NuGet.Config"
