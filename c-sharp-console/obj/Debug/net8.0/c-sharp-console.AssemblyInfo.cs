@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("c-sharp-console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c651f8a6ce77c991d776af2c523c0d4a979b75ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+662d6566dc544952229d8cec36f9da83a7d1437c")]
 [assembly: System.Reflection.AssemblyProductAttribute("c-sharp-console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("c-sharp-console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
